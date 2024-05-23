@@ -4,8 +4,7 @@
 This is a simple script that goes through your folder and searches for the pictures of the given format. After that it <br /> 
 uses the ImageMagick command tool to convert them into the user's specified format.  <br />
 
-This makes it possible for to store more <br /> 
-efficient image formats on your phone, but to easily convert them when storing them on your computer. <br />
+This makes it possible for to store more efficient image formats on your phone, but to easily convert them when storing them on your computer. <br />
 
 After ImageMagick has converted all the files, the script moves them into a folder named "converted_files", <br />
 this folder is usually created in the same folder that the original pictures were. <br />
@@ -15,6 +14,9 @@ NOTE: the script prints out the converted picture folder path into the terminal.
 
 All the libraries used in the code are part of the python's standard library. <br /> <br />
 
+## Downloads
+Link to download ImageMagick converter tool: <br />
+https://imagemagick.org/script/download.php <br />
 
 ## Compatibility
 
