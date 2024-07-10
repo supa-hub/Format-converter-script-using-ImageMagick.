@@ -1,4 +1,4 @@
-# Picture format converter and sorter using ImageMagick.
+# Format converter script using ImageMagick.
 
 ## Description
 This is a simple script that goes through your folder and searches for the pictures of the given format. After that it <br /> 
